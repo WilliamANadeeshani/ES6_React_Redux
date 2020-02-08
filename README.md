@@ -1,1 +1,1 @@
-This repo create for do tutorial exercises for ES6, React & Redux.
+React - REdux & ES6 Exercises.
