@@ -1,1 +1,1 @@
-React - REdux & ES6 Exercises.
+React - Redux & ES6 Exercises.
