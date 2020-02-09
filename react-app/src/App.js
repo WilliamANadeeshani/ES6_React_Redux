@@ -5,11 +5,16 @@ import GreetClass from './components/GreetClass';
 import JsxTest from './components/JsxComponent';
 import StateComponent from './components/StateComponent';
 import Counter from './components/Counter';
+import Event from './components/EventHandling';
+import Parent from "./components/Parent";
 
 class App extends Component {
     render() {
         return (
             <div className="App">
+                <Parent/>
+                <Event/>
+
                 <h3>React Component Set State</h3>
                 <hr/>
                 <Counter/>
